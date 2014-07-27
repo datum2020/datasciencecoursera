@@ -1,4 +1,1 @@
-datasciencecoursera
-===================
-
-John Hopkins Data Science Coursework 
+## This is a markdown file
